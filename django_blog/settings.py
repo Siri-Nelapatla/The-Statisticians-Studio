@@ -140,5 +140,5 @@ EMAIL_HOST_PASSWORD = "ayazahmed"
 
 import os
 STATICFILES_DIRS = os.path.join(BASE_DIR."static"),
-STATIC ROOT = os.path.join (BASE_DIR,'staticfiles_build','static')
+STATIC ROOT = os.path.join (BASE_DIR,'static')
 
